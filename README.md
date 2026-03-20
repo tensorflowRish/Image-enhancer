@@ -1,4 +1,8 @@
-hello guys...this is an image enhancer tool that is tried to build just for fun. there are few pictures in the data/hi_res you can download more and place pictures there. i used CelebFaces Attributes (CelebA) Dataset available on kaggle.com
+hello guys...this is an image enhancer tool that is tried to build just for fun. 
+---
+there are few pictures in the data/hi_res you can download more and place pictures there. 
+---
+i used CelebFaces Attributes (CelebA) Dataset available on kaggle.com
 -----------------------------------------------------------------------------------------
 Process:
   * simply run train.py after installing the dependencies
